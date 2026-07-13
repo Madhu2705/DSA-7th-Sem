@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Jump_Game_II {
 
     public static int jump(int[] nums) {
         int jumps = 0;

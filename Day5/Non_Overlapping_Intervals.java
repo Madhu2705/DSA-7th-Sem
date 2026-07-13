@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class Non_Overlapping_Intervals {
 
     static class Solution {
 

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class IsValid_Parantheses {
 
     public static int valid(String s) {
         int low = 0, high = 0;
